@@ -1,0 +1,13 @@
+C:\Users\thefo\Documents\Projects\UniqueWordAbbreviationExercise\bin\Debug\netcoreapp3.1\UniqueWordAbbreviationExercise.exe
+C:\Users\thefo\Documents\Projects\UniqueWordAbbreviationExercise\bin\Debug\netcoreapp3.1\UniqueWordAbbreviationExercise.deps.json
+C:\Users\thefo\Documents\Projects\UniqueWordAbbreviationExercise\bin\Debug\netcoreapp3.1\UniqueWordAbbreviationExercise.runtimeconfig.json
+C:\Users\thefo\Documents\Projects\UniqueWordAbbreviationExercise\bin\Debug\netcoreapp3.1\UniqueWordAbbreviationExercise.runtimeconfig.dev.json
+C:\Users\thefo\Documents\Projects\UniqueWordAbbreviationExercise\bin\Debug\netcoreapp3.1\UniqueWordAbbreviationExercise.dll
+C:\Users\thefo\Documents\Projects\UniqueWordAbbreviationExercise\bin\Debug\netcoreapp3.1\UniqueWordAbbreviationExercise.pdb
+C:\Users\thefo\Documents\Projects\UniqueWordAbbreviationExercise\obj\Debug\netcoreapp3.1\UniqueWordAbbreviationExercise.csprojAssemblyReference.cache
+C:\Users\thefo\Documents\Projects\UniqueWordAbbreviationExercise\obj\Debug\netcoreapp3.1\UniqueWordAbbreviationExercise.AssemblyInfoInputs.cache
+C:\Users\thefo\Documents\Projects\UniqueWordAbbreviationExercise\obj\Debug\netcoreapp3.1\UniqueWordAbbreviationExercise.AssemblyInfo.cs
+C:\Users\thefo\Documents\Projects\UniqueWordAbbreviationExercise\obj\Debug\netcoreapp3.1\UniqueWordAbbreviationExercise.csproj.CoreCompileInputs.cache
+C:\Users\thefo\Documents\Projects\UniqueWordAbbreviationExercise\obj\Debug\netcoreapp3.1\UniqueWordAbbreviationExercise.dll
+C:\Users\thefo\Documents\Projects\UniqueWordAbbreviationExercise\obj\Debug\netcoreapp3.1\UniqueWordAbbreviationExercise.pdb
+C:\Users\thefo\Documents\Projects\UniqueWordAbbreviationExercise\obj\Debug\netcoreapp3.1\UniqueWordAbbreviationExercise.genruntimeconfig.cache
